@@ -1,0 +1,14 @@
+type: CellLiquid
+name: "Acide"
+color: 00ff15
+research: volcanite
+viscosity: 0.8
+status: corrosion
+statusDuration: 125
+capPuddles: false
+liquidMultiplier: 0.5
+blockReactive: true
+moveThroughBlocks: false
+damageTaken: 0.4
+colorFrom: 70ff7c
+colorTo: 00c911

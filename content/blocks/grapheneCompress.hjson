@@ -1,0 +1,27 @@
+type: GenericCrafter
+size: 3
+name: "Compresseur à graphène"
+liquidCapacity: 30
+consumes: {
+	power: 6
+	liquids: [
+		water/0.3
+	]
+	items: [
+		barreCarbone/3
+		graphite/2
+	]
+}
+craftTime: 110
+outputItems: [
+	graphene/1
+]
+research: [
+	parent: compacteurCarbone
+]
+category: crafting
+requirements: [
+	quartz/130
+	polymere/150
+	silicon/125
+]

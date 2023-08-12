@@ -1,0 +1,25 @@
+type: GenericCrafter
+size: 2
+name: "Compacteur à carbone"
+consumes: {
+	power: 2
+	items: [
+		polymere/3
+		coal/2
+		quartz/2
+	]
+}
+craftTime: 60
+outputItems: [
+	barreCarbone/2
+	bouteilleHydrogene/1
+]
+research: [
+	parent: polymereRaffinerie
+]
+category: crafting
+requirements: [
+	polymere/50
+	silicon/60
+	volcanite/80
+]

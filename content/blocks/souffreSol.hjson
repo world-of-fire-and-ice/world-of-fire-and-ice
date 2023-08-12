@@ -1,0 +1,8 @@
+name: "Sol de souffre"
+type: Floor
+variants: 3
+itemDrop: souffre
+playerUnmineable: true
+attributes: {
+water: -1
+}

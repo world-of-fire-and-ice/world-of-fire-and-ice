@@ -1,0 +1,11 @@
+type: Floor
+isLiquid: true
+name: "Acide liquide"
+liquidDrop: acide
+variants: 0
+status: corrosion
+statusDuration: 125
+cacheLayer: arkycite
+drownTime: 350
+supportsOverlay: false
+color: 00ff15

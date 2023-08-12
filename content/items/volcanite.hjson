@@ -1,0 +1,8 @@
+name: "Volcanite"
+color: 470000
+research: copper
+hardness: 1
+cost: 0.5
+attributes: {
+water: 0.2
+}

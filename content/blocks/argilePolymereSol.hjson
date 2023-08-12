@@ -1,0 +1,5 @@
+name: "Sol d'argile polymère"
+type: Floor
+variants: 0
+itemDrop: argilePolymere
+playerUnmineable: true

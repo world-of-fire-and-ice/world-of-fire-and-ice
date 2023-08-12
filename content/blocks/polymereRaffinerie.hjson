@@ -1,0 +1,26 @@
+type: GenericCrafter
+size: 2
+name: "Raffinerie de polymère"
+liquidCapacity: 10
+consumes: {
+	power: 2
+	items: [
+		argilePolymere/3
+	]
+	liquids: [
+		acide/0.15
+	]
+}
+craftTime: 45
+outputItems: [
+	polymere/1
+]
+research: [
+	parent: kiln
+]
+category: crafting
+requirements: [
+	quartz/75
+	silicon/20
+	volcanite/60
+]
