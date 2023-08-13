@@ -1,0 +1,3 @@
+name: "Mur de roche volcanique"
+type: StaticWall
+variants: 3
