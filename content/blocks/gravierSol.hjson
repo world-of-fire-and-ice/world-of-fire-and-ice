@@ -1,0 +1,5 @@
+name: "Sol de gravier"
+type: Floor
+variants: 3
+itemDrop: gravier
+playerUnmineable: true
