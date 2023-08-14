@@ -1,0 +1,14 @@
+name: "Mur de roche craquelée"
+type: Wall
+variants: 4
+hasColor: false
+targetable: false
+visibility: sandBoxOnly
+health: 100
+underBullets: true
+drawTeamOverlay: false
+breakable: false
+rebuildable: false
+replaceable: false
+forceDark: true
+isEnemy: false
